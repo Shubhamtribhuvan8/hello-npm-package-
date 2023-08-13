@@ -1,0 +1,23 @@
+{
+  "name": "hello_npm_package_version1",
+  "version": "1.0.0",
+  "description": "Hello NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubhamtribhuvan8/hello-npm-package-.git"
+  },
+  "keywords": [
+    "NPM",
+    "Learning"
+  ],
+  "author": "Shubham Tribhuvan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubhamtribhuvan8/hello-npm-package-/issues"
+  },
+  "homepage": "https://github.com/Shubhamtribhuvan8/hello-npm-package-#readme"
+}
